@@ -1,7 +1,7 @@
 # ILDS (Indian Legal Documents Summarization)
 Indian Legal Documents Summarization
 
-The repository contains the dataset and result of the paper "Indian Legal Text Summarization: An Experiment with BART and PEGASUS"
+The repository contains the dataset and result of the paper "Indian Legal Text Summarization:A Text Normalization-based Approach"
 
 Our contributions can be summarized as below:
 
