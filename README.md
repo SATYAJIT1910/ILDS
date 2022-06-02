@@ -28,13 +28,14 @@ for any purpose, even commercially.<br>
 ## Citation
 
 ```
-@article{Ghosh2022,
-author = "Satyajit Ghosh and Mousumi Dutta and Tanaya Das",
-title = "{Indian Legal Text Summarization: A Text Normalization-based Approach}",
-year = "2022",
-month = "6",
-url = "https://www.techrxiv.org/articles/preprint/Indian_Legal_Text_Summarization_A_Text_Normalization-based_Approach/19944665",
-doi = "10.36227/techrxiv.19944665.v1"
+@article{Ghosh_2022,
+	doi = {10.36227/techrxiv.19944665},
+	url = {https://doi.org/10.36227%2Ftechrxiv.19944665},
+	year = 2022,
+	month = {jun},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+	author = {Satyajit Ghosh and Mousumi Dutta and Tanaya Das},
+	title = {Indian Legal Text Summarization: A Text Normalization-based Approach}
 }
 
 ```
