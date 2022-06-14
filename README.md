@@ -1,7 +1,7 @@
 # ILDS (Indian Legal Documents Summarization)
 Indian Legal Documents Summarization
 
-The repository contains the dataset and result of the paper "Indian Legal Text Summarization:A Text Normalization-based Approach"
+The repository contains the dataset and result of the paper "Indian Legal Text Summarization: A Text Normalisation-based Approach"
 
 Our contributions can be summarized as below:
 
@@ -28,14 +28,15 @@ for any purpose, even commercially.<br>
 ## Citation
 
 ```
-@article{Ghosh_2022,
-	doi = {10.36227/techrxiv.19944665},
-	url = {https://doi.org/10.36227%2Ftechrxiv.19944665},
-	year = 2022,
-	month = {jun},
-	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
-	author = {Satyajit Ghosh and Mousumi Dutta and Tanaya Das},
-	title = {Indian Legal Text Summarization: A Text Normalization-based Approach}
+@misc{https://doi.org/10.48550/arxiv.2206.06238,
+  doi = {10.48550/ARXIV.2206.06238},
+  url = {https://arxiv.org/abs/2206.06238},
+  author = {Ghosh, Satyajit and Dutta, Mousumi and Das, Tanaya},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Indian Legal Text Summarization: A Text Normalisation-based Approach},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 
 ```
