@@ -28,7 +28,15 @@ for any purpose, even commercially.<br>
 ## Citation
 
 ```
-Will be updated after inclusion in IEEE Xplore
+@INPROCEEDINGS{10039891,
+  author={Ghosh, Satyajit and Dutta, Mousumi and Das, Tanaya},
+  booktitle={2022 IEEE 19th India Council International Conference (INDICON)}, 
+  title={Indian Legal Text Summarization: A Text Normalization-based Approach}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-4},
+  doi={10.1109/INDICON56171.2022.10039891}}
 ```
 ## Contact
 
